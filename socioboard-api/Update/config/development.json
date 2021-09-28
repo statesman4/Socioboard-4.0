@@ -54,9 +54,9 @@
     "password": "<< Database password >>"
   },
   "mongo": {
-    "username": "<< username >>",
-    "password": "<< Database password >>",
-    "host": "<< host >>",
-    "db_name": "<< Database name >>"
+    "username": "socioboarduser",
+    "password": "password",
+    "host": "localhost",
+    "db_name": "socioboarddb"
   }
 }

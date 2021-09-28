@@ -35,9 +35,9 @@
     "dialect": "mysql"
   },
   "development": {
-    "username": "<< DB USER NAME >>",
-    "database": "<< Database name >>",
-    "password": "<< password >>",
+    "username": "socioboarduser",
+    "database": "socioboarddb",
+    "password": "socioboard",
     "host": "127.0.0.1",
     "dialect": "mysql",
     "pool": {

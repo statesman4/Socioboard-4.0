@@ -10,14 +10,14 @@
     "profile_add_redirect_url": "https://local.socioboard.com/facebook/callback",
     "profile_page_redirect_url": "https://local.socioboard.com/facebook-page/callback",
     "facebook_api": {
-      "app_id": "<< APP ID >>",
-      "secret_key": "<< APP SECRET >>",
+      "app_id": "533405184387236",
+      "secret_key": "22ea6825fdb9ff06acc91f39077a5afe",
       "redirect_url": "https://local.socioboard.com/facebook-callback",
       "fbprofile_add_redirect_url": "https://local.socioboard.com/facebook/callback"
     },
     "google_api": {
-      "client_id": "<< APP CLIENT ID >>",
-      "client_secrets": "<< CLIENT SECRET >>",
+      "client_id": "299984985132-8tlivj8b73venjr48q8v7ihc953ou3h3.apps.googleusercontent.com",
+      "client_secrets": "C_5S3RPW9LfoZpWN965LWOK0",
       "redirect_url": "https://local.socioboard.com/google-callback",
       "youtube_redirect_url": "https://local.socioboard.com/youtube/callback",
       "google_profile_add_redirect_url": "https://local.socioboard.com/youtube/callback",
@@ -27,29 +27,29 @@
       "youtube_insights_metrics": "averageViewDuration,likes,dislikes,comments,shares,subscribersGained,subscribersLost,views"
     },
     "github_api": {
-      "client_id": "<< APP CLIENT ID >>",
-      "client_secret": "<< CLIENT SECRET >>",
+      "client_id": "17d1d3c5adcd941e3463",
+      "client_secret": "3f2c04732e2efe8541d021c7be1ab940bc19e0b3",
       "redirect_url": "https://local.socioboard.com/github-callback"
     },
     "twitter_api": {
-      "api_key": "<< APP KEY >>",
-      "secret_key": "<< CLIENT SECRET >>",
+      "api_key": "7EjfAU9pzCQMvseZM4OhFYCdt",
+      "secret_key": "llBRqcEs4RUzVDf8XKxvlEPrUGhbZE6wvdVTgHbbh5KzdUYPnt",
       "login_redirect_url": "https://local.socioboard.com/twitter-callback",
       "redirect_url": "https://local.socioboard.com/twitter/callback",
-      "app_name": "<< APP NAME >>",
+      "app_name": "Devoir.ai",
       "webhook_url": "https://localhost:3002/v1/webhooks/twitter",
       "webhook_environment": "development",
       "version": "5.0.0"
     },
     "linkedIn_api": {
-      "client_id": "<< APP CLIENT ID >>",
-      "client_secret": "<< CLIENT SECRET >>",
+      "client_id": "77duf0ajk8g858",
+      "client_secret": "gclyVWaua0SlgM1V",
       "redirect_url": "https://local.socioboard.com/linkedin/callback",
       "redirect_url_page":"https://local.socioboard.com/linkedIn-pages/callback"
     },
     "instagram_api": {
-      "client_id": "<< APP CLIENT ID >>",
-      "client_secret": "<< CLIENT SECRET >>",
+      "client_id": "281754276953369",
+      "client_secret": "7aec504da5e5fecf9e134febf8f4c33f",
       "redirect_url": "https://local.socioboard.com/insta-callback"
     },
     "pinterest": {
@@ -58,8 +58,8 @@
       "redirect_url": "https://localhost:3000/v1/team/addSocialProfile"
     },
     "instagram_business_api": {
-      "client_id": "<< APP CLIENT ID >>",
-      "client_secret": "<< CLIENT SECRET >>",
+      "client_id": "281754276953369",
+      "client_secret": "7aec504da5e5fecf9e134febf8f4c33f",
       "business_redirect_url": "https://local.socioboard.com/instagram-business/callback"
     },
     "jest": {
@@ -78,10 +78,10 @@
       "password": "<< Database password >>"
     },
     "mongo": {
-      "username": "<< username >>",
-      "password": "<< Database password >>",
-      "host": "<< host >>",
-      "db_name": "<< Database name >>"
+      "username": "socioboarduser",
+      "password": "password",
+      "host": "localhost",
+      "db_name": "socioboarddb"
     },
     "authorize": {
       "secret": "<< RANDOM SECRET >>",

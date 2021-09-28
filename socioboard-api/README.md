@@ -41,7 +41,7 @@ socioboard-api/library\sequelize-cli\config>start config.json
 
 # Set the node_env as development
 socioboard-api/library/sequelize-cli> set node_env=development
-
+cd seeders
 # Lets migrate all neccessary tables
 socioboard-api/library/sequelize-cli> sequelize db:migrate
 
